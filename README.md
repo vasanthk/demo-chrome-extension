@@ -15,4 +15,4 @@ When the HTML page comes up, click “Check now!” and you should immediately s
 
 ## Links
 
-[Tutorial for building this extension](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)
+[How to Create a Chrome Extension in 10 Minutes Flat](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)
